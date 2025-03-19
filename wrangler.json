@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "lucky-feather-fcf9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f5eb618b-24fd-40e5-b75f-19d592014a62",
+      "database_name": "cool-snow-61dd-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
